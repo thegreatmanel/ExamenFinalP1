@@ -1,18 +1,18 @@
 package examenfinalparte1;
 
-public class Principal {
+public class Main {
 
     int i;
 
-    public Principal(int j, int m) {
+    public Main(int j, int m) {
         i = met(j, m);
     }
 
-    public Principal(int j) {
+    public Main(int j) {
         i = met(j, j);
     }
 
-    public Principal() {
+    public Main() {
         i = -1;
     }
 
