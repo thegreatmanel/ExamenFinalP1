@@ -1,4 +1,4 @@
-package examenfinalparte1;
+package examenFinalParte1_;
 
 public class Main {
 
